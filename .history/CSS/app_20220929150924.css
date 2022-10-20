@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: aqua;
+    font-family: 'Inter', sans-serif;
+    font-weight: 500;
+
+}
+.Tours{
+    width: 370px;
+    height: 420px;
+    background-color: aliceblue;
+}
+.Tours_content{
+   padding: 20px 20px 14px 20px;
+}
+.Tours_title{
+    background-color: aqua;
+}

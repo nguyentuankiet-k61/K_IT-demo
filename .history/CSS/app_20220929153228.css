@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+body{
+    background-color: aqua;
+    font-family: 'Inter', sans-serif;
+    font-weight: 500;
+
+}
+.Tours{
+    width: 370px;
+    height: auto;
+    background-color: aliceblue;
+}
+.Tours_content{
+   padding: 20px 20px 14px 20px;
+}
+.Tours_title{
+    color: #23262F;
+    margin-bottom: 10px;
+}
+.Tours_ratting{
+    margin-bottom: 20px;
+}
+.Tours_review , .Tours_Ducatiom{
+    color: #353945;
+}
+.Tours_botton{
+    font-size: 14px;
+    font-family: 500;
+    color: white;
+    padding: 8px 16px;
+    background-color:black;
+    text-decoration: none;
+    border-radius: 8px;
+    line-height: 17px;
+}
